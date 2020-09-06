@@ -7,5 +7,4 @@ umidade capturado naquele instante.
 
 Além disso é possível acionar o rastreamento do drone.Esta funcionalidade resulta na localização do equipamento em um mapa.
 
-
-[diagrama.png]
+![Diagrama](/diagrama.png)
